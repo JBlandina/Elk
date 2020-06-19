@@ -12,13 +12,12 @@
 # List the IP Addresses of your webservers
 # You should have at least 2 IP addresses
 [webservers]
-10.0.0.10
-10.0.0.11
-10.0.0.9
-10.0.0.8
+10.1.0.6
+10.1.0.8
+10.1.0.9
 
 # List the IP address of your ELK server
 # There should only be one IP address
 [elkservers]
-10.0.0.12
+10.1.0.7
 
